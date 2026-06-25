@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include "args.hpp"
-#include "person.hpp"
+#include <person.hpp>
 
 int main(int argc, char **argv)
 {
